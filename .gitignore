@@ -36,3 +36,6 @@ yarn-error.log*
 
 # Specific sensitive files
 # Add the names of any sensitive files or directories you want to hide here
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
